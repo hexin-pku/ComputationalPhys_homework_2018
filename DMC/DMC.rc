@@ -1,0 +1,13 @@
+mass           1
+dt             0.01
+calctimes      1000
+alpha          1
+nelectrons     2
+nnuclei        2
+nwalkers_max      7000
+nwalkers_initial  5000
+Flag_Plot_RMSD  1
+Flag_Plot_Show  1
+Plot_Xlabel     time[a.u.]
+Plot_Ylabel     Energy[a.u.]
+
